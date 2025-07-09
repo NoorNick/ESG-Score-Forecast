@@ -73,7 +73,7 @@ Predicted Revenue and ESG scores using 2025 as input. Forecasts provide insights
 <pre>├── data/ # Data files or links to datasets 
 │ └── ESG_data.csv # Cleaned ESG and financial dataset 
 │ └── company_esg_financial_dataset (unclean).csv # Original ESG and financial dataset 
-│ ├── notebooks/ # Jupyter notebooks
+├── notebooks/ # Jupyter notebooks
 │ ├── 1-eda.ipynb # Exploratory Data Analysis (EDA & visuals) 
 │ ├── 2-preprocessing.ipynb # Data cleaning, feature engineering 
 │ └── 3-modeling.ipynb # Machine learning model development & forecasting 

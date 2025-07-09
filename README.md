@@ -89,8 +89,8 @@ Predicted Revenue and ESG scores using 2025 as input. Forecasts provide insights
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/NoorNick/ESG-Score-Prediction.git
-cd ESG-Score-Prediction
+git clone https://github.com/NoorNick/ESG-Score-Forecast.git
+cd ESG-Score-Forecast
 ```
 2. Install requirements:
 ```
